@@ -21,3 +21,5 @@ Este é um jogo simples inspirado no Super Mario, onde o jogador controla um per
 2. Abra o arquivo `index.html` em um navegador web.
 
 Divirta-se jogando!
+link de jogo 
+https://friendly-space-guide-g4r965xvv4x63pwv4-5500.app.github.dev/
